@@ -1,0 +1,133 @@
+ <name>AnimationRule</name>
+    <name>ApexClass</name>
+ <name>ApexComponent</name>
+    <name>ApexEmailNotifications</name>
+   <name>ApexPage</name>
+    <name>ApexTrigger</name>
+   <name>AppMenu</name>
+<name>ApprovalProcess</name>
+ <name>AssignmentRules</name>
+<name>Audience</name>
+ <name>AuraDefinitionBundle</name>
+ <name>AutoResponseRules</name>
+<name>BlacklistedConsumer</name>
+ <name>BrandingSet</name>
+    <name>BusinessProcess</name>
+ <name>CanvasMetadata</name>
+   <name>Certificate</name>
+    <name>CleanDataService</name>
+ <name>Community</name>
+ <name>CommunityTemplateDefinition</name>
+<name>CommunityThemeDefinition</name>
+   <name>CompactLayout</name>
+ <name>ConnectedApp</name>
+ <name>ContentAsset</name>
+    <name>CorsWhitelistOrigin</name>
+ <name>CspTrustedSite</name>
+    <name>CustomApplication</name>
+  <name>CustomField</name>
+    <name>CustomHelpMenuSection</name>
+    <name>CustomIndex</name>
+   <name>CustomLabel</name>
+ <name>CustomLabels</name>
+<name>CustomMetadata</name>
+<name>CustomNotificationType</name>
+ <name>CustomObject</name>
+ <name>CustomObjectTranslation</name>
+ <name>CustomPageWebLink</name>
+<name>CustomPermission</name>
+  <name>CustomSite</name>
+    <name>CustomTab</name>
+ <name>Dashboard</name>
+<name>DigitalExperience</name>
+ <name>DigitalExperienceBundle</name>
+  <name>DigitalExperienceConfig</name>
+<name>Document</name>
+  <name>DuplicateRule</name>
+  <name>EmailServicesFunction</name>
+<name>EmailTemplate</name>
+<name>EscalationRules</name>
+ <name>ExperienceBundle</name>
+<name>FieldRestrictionRule</name>
+<name>FieldSet</name>
+<name>FlexiPage</name>
+ <name>Flow</name>
+ <name>FlowDefinition</name>
+<name>FlowTest</name>
+ <name>GlobalValueSet</name>
+ <name>Group</name>
+ <name>HomePageComponent</name>
+ <name>HomePageLayout</name>
+<name>IframeWhiteListUrlSettings</name>
+ <name>InstalledPackage</name>
+<name>KeywordList</name>
+<name>Layout</name>
+ <name>LeadConvertSettings</name>
+ <name>Letterhead</name>
+<name>LightningComponentBundle</name>
+   <name>LightningMessageChannel</name>
+<name>ListView</name>
+ <name>ManagedContentType</name>
+ <name>ManagedTopics</name>
+ <name>MatchingRule</name>
+   <name>MatchingRules</name>
+ <name>ModerationRule</name>
+  <name>NavigationMenu</name>
+  <name>Network</name>
+   <name>NetworkBranding</name>
+ <name>NotificationTypeConfig</name>
+<name>PathAssistant</name>
+<name>PermissionSet</name>
+ <name>PermissionSetGroup</name>
+<name>PostTemplate</name>
+   <name>Profile</name>
+ <name>ProfilePasswordPolicy</name>
+ <name>ProfileSessionSetting</name>
+    <name>Queue</name>
+ <name>QuickAction</name>
+  <name>RecordType</name>
+ <name>RemoteSiteSetting</name>
+ <name>Report</name>
+    <name>ReportType</name>
+  <name>Role</name>
+    <name>SamlSsoConfig</name>
+<name>Scontrol</name>
+  <name>Settings</name>
+  <name>SharingCriteriaRule</name>
+   <name>SharingOwnerRule</name>
+  <name>SharingRules</name>
+ <name>SiteDotCom</name>
+  <name>StaticResource</name>
+    <name>Territory2Model</name>
+    <name>TopicsForObjects</name>
+  <name>UserCriteria</name>
+   <name>ValidationRule</name>
+    <name>WebLink</name>
+    <name>WebLink</name>
+  <name>WorkflowAlert</name>
+  <name>WorkflowFieldUpdate</name>
+    <name>WorkflowRule</name>
+  <name>WorkflowTask</name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
